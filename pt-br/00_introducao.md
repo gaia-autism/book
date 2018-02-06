@@ -1,6 +1,6 @@
 # Introdução
 
-Este livro é a primeira versão, ainda experimental, de um desejo meu desde o início do mestrado: compartilhar conhecimento de forma acessível, apreensível e que fosse possível distribuir os resultados da minha dissertação de mestrado para além de uma documento que ficasse enclausurado nas prateleiras de uma biblioteca universitária.
+Este livro é a primeira versão, ainda experimental, de um desejo meu desde o início do mestrado: compartilhar conhecimento de forma acessível, apreensível e que fosse possível distribuir os resultados da minha dissertação para além de uma documento que ficasse enclausurado nas prateleiras de uma biblioteca universitária.
 
 A edição experimental foi produzida de forma independente, em tiragem limitada de 15 exemplares e distribuída gratuitamente a pessoas que me ajudaram nessa jornada do mestrado de alguma forma e pelas quais eu sou muito grata. A intenção foi colocar os resultados da minha pesquisa literamente no papel, obtendo feedbacks e ensaiando para lançar uma versão oficial via editora.
 
@@ -13,6 +13,15 @@ Este livro apresenta o principal produto da dissertação de mestrado: um conjun
 ## Para quem é este livro
 
 Para qualquer pessoa interessada em saber mais sobre como projetar soluções computacionais mais acessíveis a pessoas com autismo. Não é preciso ser um profissional de tecnologia. O GAIA foi projetado para possibilitar que não apenas profissionais de computação, mas pedagogos, psicoterapeutas, educadores digitais e outros profissionais envolvido com projetos de tecnologia para pessoas com Autismo possam compreender o contexto de uso deste público frente à tecnologia e porque determinadas soluções de design podem ser benéficas.
+
+## Sobre o que não é este livro
+
+Este livro não tem o objetivo de explicar todos os aspectos conceituais e técnicos sobre acessibilidade web, sendo focado especificamente nesta temática voltada para características do autismo e com ênfase em um público diversificado, de especialistas em tecnologia a orientadores educacionais. São explicados alguns conceitos-base nos capítulos iniciais, mas detalhes técnicos de codificação não serão explorados.
+
+Para uma introdução à acessibilidade web, recomendo os seguintes materiais disponíveis gratuitamente:
+* Websites Atendendo a Requisitos de Acessibilidade e Usabilidade - (https://leanpub.com/warau)
+* Cartilha de Acessibilidade Web do W3C Brasil: Fascículo 1 - (http://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html)
+* Cartilha de Acessibilidade Web do W3C Brasil: Fascículo 2 - (http://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-II.html)
 
 ## Distribuição do conteúdo
 
